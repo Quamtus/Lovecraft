@@ -1,0 +1,123 @@
+body {
+    background: #000000;
+    color: #cfc9c9;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-wrap: wrap;
+}
+
+h1 {
+    font-weight: 200;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+h2 {
+    font-weight: 200;
+    display: flex;
+    justify-content: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+h5 {
+    font-weight: 200;
+    display: flex;
+    justify-content: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+p {
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+a {
+    color: #cfc9c9;
+    text-decoration: none;
+}
+
+.all_card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.card {
+    border-style: solid;
+    padding: 15px;
+    width: 300px;
+    height: 350px;
+    text-align: center;
+    margin: 15px;
+    padding: 15px;
+}
+
+.fon {
+    background: #464545;
+    padding-bottom: 20px;
+    padding-top: 60px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.photo0{
+    background: url(https://cdn.discordapp.com/attachments/1027905929364115487/1162396082525982900/FY72Ah5S6ao.jpg?ex=653bc8b6&is=652953b6&hm=4758968b1643e247fcd66c56069d3f34d029a3eb1f7d5dafdc1a182da1f5e183&) center no-repeat;
+    width: 1250px;
+    height: 700px;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo1{
+    background: url(https://media.discordapp.net/attachments/1027905929364115487/1162359142791524362/16971983888455929849285527253539.jpg?ex=653ba64f&is=6529314f&hm=bcfa2c96002f76bd5adc95b336384b9c728c416a1bb5e705bbf43d2be887c75e&=&width=1057&height=661) center no-repeat;
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo2{
+    background: url(https://cdn.discordapp.com/attachments/1027905929364115487/1162359703217635438/16971985425522482387232191743564.png?ex=653ba6d4&is=652931d4&hm=f2a7a5567031fd85220b655de63b79d57867dc3b69b58665b672c15d8c9a4ddf&) center no-repeat;
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo3{
+    background: url(https://media.discordapp.net/attachments/1027905929364115487/1162359298228228146/16971984361866846005026639557760.jpg?ex=653ba674&is=65293174&hm=a2f19690fec197022b8d4e56fe0293a572986ed8a82df20ad7d2bd5052c52ad0&=&width=1057&height=600) center no-repeat;
+    width: 200px;
+    height: 300px;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo4{
+    background: url(https://media.discordapp.net/attachments/1027905929364115487/1162359630299672586/16971985266011257160798519810518.jpg?ex=653ba6c3&is=652931c3&hm=d2945e93abfc810f26eaf4564911a6935cb5c7c69a74f16ce2deb3ea78a623ad&=&width=663&height=663) center no-repeat;
+    width: 200px;
+    height: 300px;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo5{
+    background: url(https://media.discordapp.net/attachments/1027905929364115487/1162359529728659567/16971985013549059062734224252965.jpg?ex=653ba6ab&is=652931ab&hm=bd65d407ea69e82a7630abcff186ab5a19a37dc853053ec9c21ab710276bddbb&=&width=469&height=663) center no-repeat;
+    width: 200px;
+    height: 300px;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
